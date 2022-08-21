@@ -1,4 +1,4 @@
-# Django-Todolist
+# Django Todolist
 
 [![License][license-image]][license-url] [![Build Status][travis-image]][travis-url]
 
