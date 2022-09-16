@@ -34,3 +34,4 @@ or start on the [landing page](http://localhost:8000/)
 
 [travis-url]: https://travis-ci.org/rtzll/django-todolist
 [travis-image]: https://travis-ci.org/rtzll/django-todolist.svg?branch=master
+
